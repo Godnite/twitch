@@ -147,3 +147,14 @@ Si un lien frauduleux apparait dans le chat, je suis tenu de le supprimer rapide
 ## C'est quoi un ban Twitch ?
 C'est la disparition de la chaine et une interdiction d'apparaitre en vocal ou même en jeu sur le stream d'autres streamers sur Twitch.  
 La durée du ban est relative cela va de 24h à 7 jours voir à vie.  
+
+## Qui est a la base des evenements du 11/09/2001 ?
+Al-Qaïda  
+
+## Paye tu des bot pour regarder tes replay? Pourquoi tu a beaucoup plus de view depuis quelque temps?
+Je ne paie pas de bots.  
+Depuis fin octobre Twitch a changer le compteur de vues sur les replays.  
+Dorénavant les replays contiennent les vues faites en live.  
+
+## Appliques-tu les rectifications orthographiques du français de 1990 ?
+Oui via pull requests
