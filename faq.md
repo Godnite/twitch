@@ -80,7 +80,7 @@ Il est préférable de ne pas mourir en ayant des regrets.
 
 ## PHP a t'il encore de l'avenir ?
 Oui, car ça permet de faire des site rapidement sur des hébergeurs peu cher.  
-Les développeurs sont aussi peu chers donc c'est un bon investissemeent pour une ESN.  
+Les développeurs sont aussi peu chers donc c'est un bon investissement pour une ESN.  
 
 ## Pourquoi la FAQ est sur git ?
 La FAQ est sur git car cela permet d'engager une discussion sur un point précis avant de faire un merge de la réponse.  
@@ -91,3 +91,59 @@ Vous devez suivre ces étapes :
 1. faites un rafraichissement de la page avec la touche F5 de votre clavier
 2. redémarrer votre box internet
 3. redémarrer votre ordinateur.  
+
+## Que consommes-tu ?
+Des galletes végans, des raviolis et tout sortes de junk food sur uber eats
+
+## Comment fais-tu pour avoir autant de talent et nous faire autant rire ?
+J'ai travaillé mon élocution via Teamspeak sur World of Warcraft il y a fort longtemps.  
+Sachant qu'il y avait 25 personnes connectés en vocal en même temps, il a fallu développé des atouts vocaux pour faire mouche en peu de temps.  
+
+## Pourquoi il y a aucune musique et sons ?
+Les ayant droits sur Twitch sont très sévères sur les contenus qu'ils possèdent (ou pas).  
+Tant que je n'aurais pas réinterprété les musiques et sons à la bouche, je ne peux pas remettre ces derniers.  
+
+## Peux tu nous présenter les personnages récurrents de la chaine ?
+Les personnages récurrents sont :
+* megadamage : le streamer
+* crazymaxdev : le capitaine docker
+* mazzu : le non érudit
+* funzzy333 : le québécois
+* dame cagette : le côté féminin de la chaîne megadamage
+
+## Combien font 7 * 9 / 21 ?
+Plusieurs réponses sont possible suivant la combinaisons des termes suivant :
+* la précendance des opérateurs
+* le sous ensemble mathématique
+* la base du nombre
+
+## Comment couper un gâteau en 8 parts avec seulement trois coups de couteau ?
+Pour cette réponse il faut que le gateau soit un volume constant tel que un cake.  
+Il faut couper 1 fois sur la longueur, 1 fois sur la hauteur et 1 fois sur la largeur.  
+En somme sur les axes X Y Z d'un volume.  
+
+## Comment couper un gâteau en 7 ?
+Pour couper en 7 parts, on coupe de façon successive en 2 et on met les morceaux à droite, une deuxième fois à droite, puis à gauche, de façon répétée.  
+Une fois la première part obtenue (le premier septième), il faut encore couper le reste en 6, par exemple en le coupant en 2 puis chaque morceau en 3.  
+
+## Comment as tu fait pour etre aussi famous ?
+Je ne suis pas célèbre, je suis juste juste naturel.  
+
+## Est-ce que les grenouilles doivent attendre une heure après un repas avant de retourner se baigner ?
+Les grenouilles sont des amphibiens donc pas besoin d'attendre.  
+
+## Comment résoudre la quadrature du cercle ?
+C'est un problème insoluble, je vous conseille de lire la page wikipédia à ce sujet : https://fr.wikipedia.org/wiki/Quadrature_du_cercle
+
+## Peux tu résoudre l'hypothèse de Riemann ?
+Non
+
+## Pas d'alerte de raid ?
+Il n'y a pas d'alertes de raid, de sub, de follow parce que je suis responsable de la diffusion.  
+Cela signifie que si un message ou un nom d'utilisateur inapproprié apparait sur ma diffusion alors je peux être sanctionné par un bannissement de la chaîne.  
+Si je me fais cambrioler, voler, tabasser, ou autre action violente, Twitch peut aussi me bannir.  
+Si un lien frauduleux apparait dans le chat, je suis tenu de le supprimer rapidement ainsi que la vod.  
+
+## C'est quoi un ban Twitch ?
+C'est la disparition de la chaine et une interdiction d'apparaitre en vocal ou même en jeu sur le stream d'autres streamers sur Twitch.  
+La durée du ban est relative cela va de 24h à 7 jours voir à vie.  
